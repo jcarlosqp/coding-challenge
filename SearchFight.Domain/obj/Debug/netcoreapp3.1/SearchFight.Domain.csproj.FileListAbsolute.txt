@@ -1,0 +1,9 @@
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\bin\Debug\netcoreapp3.1\SearchFight.Domain.deps.json
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\bin\Debug\netcoreapp3.1\SearchFight.Domain.dll
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\bin\Debug\netcoreapp3.1\SearchFight.Domain.pdb
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.AssemblyInfoInputs.cache
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.AssemblyInfo.cs
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.csproj.CoreCompileInputs.cache
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.dll
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.pdb
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.csprojAssemblyReference.cache

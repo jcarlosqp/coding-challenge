@@ -1,0 +1,12 @@
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\bin\Release\netcoreapp3.1\SearchFight.Infrastructure.deps.json
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\bin\Release\netcoreapp3.1\SearchFight.Infrastructure.dll
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\bin\Release\netcoreapp3.1\SearchFight.Infrastructure.pdb
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\bin\Release\netcoreapp3.1\SearchFight.Domain.dll
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\bin\Release\netcoreapp3.1\SearchFight.Domain.pdb
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.csprojAssemblyReference.cache
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.AssemblyInfoInputs.cache
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.AssemblyInfo.cs
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.csproj.CopyComplete
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.dll
+C:\DATA\Programming\test-cignium\SearchFight\SearchFight.Infrastructure\obj\Release\netcoreapp3.1\SearchFight.Infrastructure.pdb
